@@ -1,0 +1,154 @@
+
+p{
+	color: black;
+}
+
+
+h1 {
+	color: black;
+}
+
+
+li {
+	color: black;
+}
+
+div#content div.annonce {
+	width: 100%;
+	margin: 8px;
+}
+
+
+
+
+
+div#content{
+	background-color: ;
+}
+
+
+
+div.annonce img{
+	border-radius: 30%;
+	margin: auto;
+}
+
+
+div#content div{
+	display: inline-block;
+	width: 48%;
+}
+
+
+
+div#content div h1, p, iframe{
+	margin: auto;
+	background-color: ;
+
+}
+
+
+@media (max-width: 760px) {
+	.content {
+		width: 600px;
+	}
+}
+
+
+@media (max-width: 500px) {
+	.content {
+		width: 400px;
+	}
+}
+
+
+
+div#content div.leftbox{
+	background-color: #c5c5c5;
+	vertical-align: top;
+	padding: 5px;
+	margin: 5px;
+	box-shadow: 0px 3px 3px rgba(0,0,0.1)
+
+}
+
+
+
+
+
+div#content div.rightbox{
+	background-color: #c5c5c5;
+	padding: 2px;
+	margin: 2px;
+    box-shadow: 0px 1px 1px rgba(0,0,0.1)
+}
+
+
+
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	width: 200px;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-decoration: none;
+	color: #c72c41;
+	font-weight: 600;
+	font-size:16px;
+}
+
+
+nav.menu-nav ul li.btn a{
+	text-decoration: none;
+	padding: 10px;
+	font-size: 15px;
+}
+
+
+nav.menu-nav ul li.btn:hover a{
+	color: black;
+	background-color: white;
+	transition: 0.5s all;
+}
+
+
+nav.menu-nav ul li.btn{
+	list-style: none;
+
+}
+
+
+header p{
+	vertical-align: top;
+	font-family: 'Roboto', sans-serif;
+	width: 80%;
+	font-size: 40px;
+	margin: auto;
+}
+
+footer{
+	color: 	red;
+}
+
+
+
+body {
+	background-color: #e3e3e3;
+	color: rgb(50, 50, 50);
+	font-family: Lora
+	font-size: 50px;
+
+
+/* Colors and fonts */
+
+ {
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+/*CV autres bails*/
+
+
+
+
